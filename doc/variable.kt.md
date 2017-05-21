@@ -6,7 +6,7 @@ var로 변수를 선언하지만, 초기화를 하는 경우는 형을 생략가
 2. var와 val의 사용법을 구분해야 한다. var는 일반변수처럼 읽고 쓰기가 가능하다. 그러나 val은 오로지 readonly이다.
  마치 const와 같다.
 
-## 전체소스 
+## 전체소스
 ~~~kotlin
 fun main(args : Array<String>){
     // 변수를 정의하는 방법은 2가지
