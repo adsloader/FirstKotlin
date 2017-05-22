@@ -6,6 +6,6 @@ kotlin을 공부하기 위해 만든 예제소스입니다. 프로그래밍 공�
 [Kotlin 공식페이지](https://kotlinlang.org/)
 에서 레퍼런스를 참고합니다.
 
-> [Document Folder](doc/)
+> [예제설명(doc 폴더)](doc/)
 
 ![](doc/first.gif)
