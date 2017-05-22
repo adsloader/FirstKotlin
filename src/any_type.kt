@@ -18,7 +18,6 @@ fun main(args : Array <String>){
         if (뭐던 is Float) {
             println("float입니다");
         }
-
     }
 
 }
