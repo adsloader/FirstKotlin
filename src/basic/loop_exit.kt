@@ -1,10 +1,12 @@
+package basic
+
 /**
  * Created by snake on 17. 5. 22.
  */
 fun main(args : Array<String>){
-    흔한이중루프();
+    basic.흔한이중루프();
     println("=================>")
-    향상된이중루프탈출();
+    basic.향상된이중루프탈출();
 }
 
 // @레이블 지정 후,  break@레이블로 나감

@@ -1,3 +1,5 @@
+package basic
+
 /**
  * Created by snake on 17. 5. 21.
  */

@@ -1,3 +1,5 @@
+package basic
+
 import java.util.*
 
 /**
@@ -29,7 +31,7 @@ fun main(args : Array<String>){
     // 4. linux bash와 비슷하니
     // ${}안에
     // 함수호출이나 수식처리도 가능함.
-    var s포멧문자열2 = "sName의 값을 가져오는 것: ${sName + "움하하하" + Date()}"; // Java class도 가져욜 수 있음.
+    var s포멧문자열2 = "sName의 값을 가져오는 것: ${sName + "움하하하" + java.util.Date()}"; // Java class도 가져욜 수 있음.
     println(s포멧문자열2);
 
 }
