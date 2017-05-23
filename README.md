@@ -33,6 +33,8 @@ Contents:
 
 함수지향
 - [람다식](doc/15.lambdas.md)
+- [중요함수](doc/16.newstyle_function.md)
+- [확장함수](doc/17.functionextension.md)
 
 무조건 코딩
 ------
