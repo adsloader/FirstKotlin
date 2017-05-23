@@ -4,9 +4,9 @@ package basic
  * Created by park on 2017-05-22.
  */
 fun main(args : Array<String>){
-    basic.비교문예제();
-    basic.반복문예제();
-    basic.case문예제();
+    비교문예제();
+    반복문예제();
+    case문예제();
 }
 
 fun case문예제() {

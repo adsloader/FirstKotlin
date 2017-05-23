@@ -4,9 +4,9 @@ package basic
  * Created by snake on 17. 5. 22.
  */
 fun main(args : Array<String>){
-    basic.흔한이중루프();
+    흔한이중루프();
     println("=================>")
-    basic.향상된이중루프탈출();
+    향상된이중루프탈출();
 }
 
 // @레이블 지정 후,  break@레이블로 나감

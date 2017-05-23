@@ -10,7 +10,7 @@ package basic
 
 var gName : String = "전역처리";
 
-    fun main(args : Array<String>){
+fun main(args : Array<String>){
     println(basic.gName);
 
     // {}안의 변수는 {} 밖에서 접근못함.

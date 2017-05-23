@@ -7,8 +7,8 @@ package basic
 fun main(args : Array<String>){
     // 변수를 정의하는 방법은 2가지
     // "var, val" <- 헉..오타작렬 예상됨
-    basic.var로선언();  // R/W 가능변수
-    basic.val로선언();  // ReadOnly 변수
+    var로선언();  // R/W 가능변수
+    val로선언();  // ReadOnly 변수
 }
 
 fun var로선언() {
