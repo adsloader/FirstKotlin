@@ -31,6 +31,8 @@ Contents:
 - [오버로딩, 오버라이딩](doc/13.polymorphism.md)
 - [interface, abstract, static](doc/14.interface_abstract_static.md)
 
+함수지향
+- [람다식](doc/15.lambdas.md)
 
 무조건 코딩
 ------
