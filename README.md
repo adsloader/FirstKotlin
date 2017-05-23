@@ -24,11 +24,11 @@ Contents:
 - [Any Type](doc/8.any_type.md)
 - [제어문](doc/9.condition.md)
 - [레이블과 이동](doc/10.loop_exit.md)
-- [컬렉션](doc/11.collection.md)
+- [컬렉션](doc/11.collections.md)
 
 객체지향
 - [class와 상속](doc/12.class.md)
-- [오버로딩, 오버라이딩](doc/12.polymorphism.md)
+- [오버로딩, 오버라이딩](doc/13.polymorphism.md)
 
 무조건 코딩
 ------
