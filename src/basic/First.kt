@@ -12,3 +12,4 @@ fun main(args : Array<String>){
     println("실행됨. 그런데 조금 느린듯 ...")
     // 종결자 없이도 실행가능
 }
+
