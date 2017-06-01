@@ -36,6 +36,9 @@ Contents:
 - [람다식](doc/15.lambdas.md)
 - [중요함수](doc/16.newstyle_function.md)
 - [확장함수](doc/17.functionextension.md)
+- [closure1](doc/20.closure.md)
+- [closure2](doc/21.closure2.md)
+
 
 java
 - [java클래스 가져오기 ](doc/19.javaimport.md)
