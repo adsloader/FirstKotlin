@@ -5,7 +5,7 @@ package basic
  */
 
 fun main(args : Array <String>){
-    // any는 C에서 void, void*와 같은 역할을 하는 듯.
+    // any는 C에서 void*와 같은 역할을 하는 듯.
     // 어떠한 데이터 형의 변수이던간에 담을 수 있는 크기.
     var 뭐던 : Any;
 
