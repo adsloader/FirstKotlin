@@ -34,5 +34,4 @@ class childClass : baseClass(){
     // overloding
     fun func2(s : String ) = println("func2:$s ");
     fun func2(s : String, num : Int ) = println("func2: $s, $num  ");
-
 }
