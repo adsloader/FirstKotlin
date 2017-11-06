@@ -11,13 +11,13 @@ package basic
 var gName : String = "전역처리";
 
 fun main(args : Array<String>){
-    println(basic.gName);
+    println(gName);
 
     // {}안의 변수는 {} 밖에서 접근못함.
     if(true){
         var lName = "지역처리";
         println(lName);
-        println(basic.gName);
+        println(gName);
     }
 
     // 모르는 변수라 에러발생.

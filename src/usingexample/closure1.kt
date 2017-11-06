@@ -11,7 +11,7 @@ fun main(args : Array<String>){
     println( fn(10) );
     // 새로운 메모리 영역
     println("----------");
-    var fn2 = simpleClosure(10);
+    var fn2 = simpleClosure(100);
     println( fn2(30) );
     println( fn2(70) );
     println( fn2(70) );
