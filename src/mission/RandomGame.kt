@@ -16,8 +16,9 @@ fun main (args : Array<String>){
 
 // IntelliJ에서 해보기
 fun 랜덤게임(){
-    val sc = Scanner(System.`in`)
 
+    // 도스창에서 문자입력을 받기위해 Scanner 클래스 크기로 메모리에 변수를 만든다.
+    val sc = Scanner(System.`in`)
 
     // 랜덤 숫자만들기
     // 구글링: java 랜덤함수

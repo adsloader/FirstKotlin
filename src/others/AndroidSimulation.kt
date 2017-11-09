@@ -1,4 +1,4 @@
-package mission
+package others
 import java.util.Scanner
 
 /**
@@ -46,7 +46,7 @@ class 안드로이드OS {
         app = YourApp()
 
         while (true) {
-            ShowMessage("\n[c]는 create\n[m]는 message\n[e]는 close\n[b]는 button click\n[t]는 시스템종료\n한 문자 입력 후, 엔터!\n")
+            ShowMessage("\n[c]는 create\n[e]는 close\n[b]는 button click\n[t]는 시스템종료\n한 문자 입력 후, 엔터!\n")
             val sMessage = event
 
             when (sMessage) {
@@ -73,7 +73,7 @@ class 안드로이드OS {
     }
 
     private fun ShowMessage(str: String) {
-        println(">>>> Android System <<<<:" + str)
+        println("Android System:" + str)
     }
 }
 

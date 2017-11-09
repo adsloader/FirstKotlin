@@ -15,30 +15,29 @@ Contents:
 ---------
 기본예제
 - [시작하기](doc/1.First.md)
-- [변수](doc/2.variable.kt.md)
-- [변수와 Null처리](doc/3.variable_null.md)
-- [숫자형 DataType](doc/4.DataTypeNumber.md)
-- [범위](doc/5.scope.md)
-- [문자열](doc/6.DataType_string.md)
-- [기본함수](doc/7.basicfunction.md)
-- [Any Type](doc/8.any_type.md)
-- [제어문](doc/9.condition.md)
-- [레이블과 이동](doc/10.loop_exit.md)
-- [컬렉션](doc/11.collections.md)
-- [예외처리](doc/18.trycatch.md)
+- [변수](doc/2.variable.kt.md)  : **[coding](http://tpcg.io/LlBqzM)**
+- [변수와 Null처리](doc/3.variable_null.md)  : **[coding](http://tpcg.io/VKlXuI)**
+- [숫자형 DataType](doc/4.DataTypeNumber.md)  : **[coding](http://tpcg.io/1L6yOq)**
+- [범위](doc/5.scope.md)  : **[coding](http://tpcg.io/SqRcEI)**
+- [기본함수](doc/7.basicfunction.md)  : **[coding](http://tpcg.io/s6NleM)**
+- [문자열](doc/6.DataType_string.md)  : **[coding](http://tpcg.io/ielUWU)**
+- [Any Type](doc/8.any_type.md)  : **[coding](http://tpcg.io/H8rzpf)**
+- [제어문](doc/9.condition.md)  : **[coding](http://tpcg.io/JOHCvT)**
+- [레이블과 이동](doc/10.loop_exit.md)  : **[coding](http://tpcg.io/wj4nt8)**
+- [컬렉션](doc/11.collections.md)  : **[coding](http://tpcg.io/D7BWcd)**
+- [예외처리](doc/18.trycatch.md)  : **[coding](http://tpcg.io/cHZCVO)**
 
 객체지향
-- [class와 상속](doc/12.class.md)
-- [오버로딩, 오버라이딩](doc/13.polymorphism.md)
-- [interface, abstract, static](doc/14.interface_abstract_static.md)
+- [class와 상속](doc/12.class.md)  : **[coding](http://tpcg.io/hdqGTM)**
+- [오버로딩, 오버라이딩](doc/13.polymorphism.md)  : **[coding](http://tpcg.io/IaYJzx)**
+- [interface, abstract, static](doc/14.interface_abstract_static.md)  : **[coding](http://tpcg.io/s2hwwc)**
 
 함수지향
-- [람다식](doc/15.lambdas.md)
-- [중요함수](doc/16.newstyle_function.md)
-- [확장함수](doc/17.functionextension.md)
-- [closure1](doc/20.closure.md)
-- [closure2](doc/21.closure2.md)
-
+- [람다식](doc/15.lambdas.md)  : **[coding](http://tpcg.io/wlvWBd)**
+- [중요함수](doc/16.newstyle_function.md)  : **[coding](http://tpcg.io/8L1AJH)**
+- [확장함수](doc/17.functionextension.md)  : **[coding](http://tpcg.io/wQEeFM)**
+- [closure1](doc/20.closure.md)  : **[coding](http://tpcg.io/fqyRRs)**
+- [closure2](doc/21.closure2.md)  : **[coding](http://tpcg.io/vgHu40)**
 
 java
 - [java클래스 가져오기 ](doc/19.javaimport.md)
