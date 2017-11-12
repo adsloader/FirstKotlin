@@ -82,11 +82,12 @@ open class ActivityFake{
     // XML에서 가져온 변수라고 가정함.
     var text   : String      = ""
     var button : String      = ""
+    var myObject             = this
 
     fun String?.setText(sText : String){
         var s = this
         s     = sText
-        var name = ActivityFake::class.toString()
+        var name = myObject.toString()
         println( "$name: " + s)
     }
 
