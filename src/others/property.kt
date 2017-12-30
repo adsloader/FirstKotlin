@@ -5,13 +5,13 @@ package others
  */
 var 이름 : String = "박모씨"
     get(){
-        if(field.length > 4) {
+        if(field.length > 5) {
             field =  "외우기 힘듬"
         }
         return field
     }
     set(s : String ){
-        println (s)
+        println ("\"${s}\"이 입력됨.")
         field = s
     }
 
