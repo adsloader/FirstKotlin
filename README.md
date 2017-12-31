@@ -45,8 +45,10 @@ java
 - [java클래스 가져오기 ](doc/19.javaimport.md)
 
 other
-- [프로퍼티](doc/22.properties.md) : **[coding](http://tpcg.io/NKwHHt
-)**
+- [프로퍼티](doc/22.properties.md) : **[coding](http://tpcg.io/NKwHHt)**
+- [lateinit & lazy](doc/23.lateinit_Lazy.md) : **[coding](http://tpcg.io/jXxb2U)**
+
+
 
 무조건 코딩
 ------
