@@ -44,6 +44,10 @@ Contents:
 java
 - [java클래스 가져오기 ](doc/19.javaimport.md)
 
+other
+- [프로퍼티](doc/22.properties.md) : **[coding](http://tpcg.io/NKwHHt
+)**
+
 무조건 코딩
 ------
 > 프로그래밍은 눈으로 보면 안됩니다.
