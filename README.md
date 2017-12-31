@@ -43,6 +43,7 @@ Contents:
 
 java
 - [java클래스 가져오기 ](doc/19.javaimport.md)
+- [java에서 kotlin 가져오기 ](doc/24.javaexport.md)
 
 other
 - [프로퍼티](doc/22.properties.md) : **[coding](http://tpcg.io/NKwHHt)**
