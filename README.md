@@ -47,7 +47,7 @@ java
 
 other
 - [프로퍼티](doc/22.properties.md) : **[coding](http://tpcg.io/NKwHHt)**
-- [lateinit & lazy](doc/23.lateinit_Lazy.md) : **[coding](http://tpcg.io/jXxb2U)**
+- [lateinit과 lazy](doc/23.lateinit_Lazy.md) : **[coding](http://tpcg.io/jXxb2U)**
 
 
 
