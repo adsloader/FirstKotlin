@@ -17,10 +17,21 @@ fun main(args : Array<String> ){
 
     // 변수로 넘김
     함수가인자라네( 함수형변수 );
+    함수가인자라네2{ n, n2 -> n + n2}
+    함수가인자라네3(
+            { n, n2 -> n +n2 },
+            100, 10
+    )
 }
 
-// kotlin에서도 generic이 사용된다.
 fun 함수가인자라네( func : (Int, Int) -> Int  ){
     func(10, 10).let { 결과값 ->  println("결과값은 $결과값 입니다") };
 }
 
+fun 함수가인자라네2( func : (Int, Int) -> Int  ){
+    println ( func(10, 10) )
+}
+
+fun 함수가인자라네3( func : (Int, Int) -> Int, a : Int, b : Int  ){
+    println ( func(a, b) )
+}
