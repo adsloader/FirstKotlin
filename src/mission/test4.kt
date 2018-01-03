@@ -22,3 +22,6 @@ fun main(args: Array<String>) {
     println(합계)
     **************** 이 줄의 주석을 제거하고 테스트 시작*/
 }
+
+// HINT 2:
+// Googling: "kotlin int to str"
