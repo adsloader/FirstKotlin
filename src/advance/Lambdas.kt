@@ -22,6 +22,15 @@ fun main(args : Array<String> ){
             { n, n2 -> n +n2 },
             100, 10
     )
+
+    // 함수원형의 포인터를 대입시키는 편법
+    var 함수인자 = {a : Int -> AddFunc(a)}
+    함수가인자라네4( 함수인자 )
+
+    // 위의 코딩을 점점 더 단순화
+    함수가인자라네4( {a : Int -> AddFunc(a)} )
+    함수가인자라네4{ a : Int -> AddFunc(a)}
+    함수가인자라네4{ a  -> AddFunc(a) }
 }
 
 fun 함수가인자라네( func : (Int, Int) -> Int  ){
@@ -35,3 +44,9 @@ fun 함수가인자라네2( func : (Int, Int) -> Int  ){
 fun 함수가인자라네3( func : (Int, Int) -> Int, a : Int, b : Int  ){
     println ( func(a, b) )
 }
+
+fun 함수가인자라네4( func : (Int) -> Int ){
+    println ( func(1) )
+}
+
+fun AddFunc(i : Int) : Int {return i+100}
