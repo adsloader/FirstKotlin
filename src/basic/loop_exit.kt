@@ -36,7 +36,7 @@ fun 흔한이중루프() {
     println("i loop end");
 }
 
-// 이름없는 리턴
+// 이름없는 함수(람다식)의 리턴
 var 람다식리턴 = Exit@{
     if(true){
         return@Exit 3
