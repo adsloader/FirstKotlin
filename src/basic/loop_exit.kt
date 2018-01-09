@@ -7,6 +7,7 @@ fun main(args : Array<String>){
     흔한이중루프();
     println("=================>")
     향상된이중루프탈출();
+    println( 람다식리턴() )
 }
 
 // @레이블 지정 후,  break@레이블로 나감
@@ -33,4 +34,12 @@ fun 흔한이중루프() {
         println("j loop end");
     }
     println("i loop end");
+}
+
+// 이름없는 리턴
+var 람다식리턴 = Exit@{
+    if(true){
+        return@Exit 3
+    }
+    1000
 }
