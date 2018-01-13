@@ -7,7 +7,7 @@ package javaimport
 class JavaExport{
     companion object {
         // 반드시 const로 선언
-        const val name = "class name"
+        const val name = "class msg"
 
         @JvmField var age = 32
         @JvmStatic fun test(){
@@ -27,5 +27,5 @@ class JavaExport{
 }
 
 // Kotlin 일반함수와 변수
-val name = "name"
+var name = "msg"
 fun MyTest(){}
