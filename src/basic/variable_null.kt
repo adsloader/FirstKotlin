@@ -10,8 +10,8 @@ fun main(args : Array<String>){
     // 아무래도 null처리로 인한 버그가 많으므로
     // kotlin이라는 언어는 그것을 강하게 제어하겠다는 의지로 보임.
 
-    var number : Int? = 10;
-    number = null;
+    var number : Int? = 10
+    number = null
 
     // 사용법: data형 끝에 ?를 붙인다.
 }

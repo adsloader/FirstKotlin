@@ -28,12 +28,12 @@ fun 향상된이중루프탈출() {
 fun 흔한이중루프() {
     for(i in 0 .. 100){
         for (j in  0.. 10){
-            if (j == 5) break;
+            if (j == 5) break
             println("i->$i, j->$j")
         }
-        println("j loop end");
+        println("j loop end")
     }
-    println("i loop end");
+    println("i loop end")
 }
 
 // 이름없는 함수(람다식)의 리턴

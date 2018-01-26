@@ -13,7 +13,7 @@ fun main(args : Array<String>){
     try{
         13 / 0;
     } catch(e: Exception){
-        println(e);
+        println(e)
     } finally {
         println("마지막 수행.")
     }
